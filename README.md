@@ -1,33 +1,23 @@
-# Project
+# Microsoft Planetary Computer - Issues and Discussions
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+This repository hosts issues and discussions that users can use to provide feedback, suggestion, and get help in using the Planetary Computer.
 
-As the maintainer of this project, please make a few updates:
+If you are experiencing issues with using the Planetary Computer, please file an Issue on this repository. If you're looking for community feedback on an idea or suggestion, consider starting a discussion instead.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## Links
 
-## Contributing
+### Microsoft Planetary Computer
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+https://planetarycomputer.microsoft.com/
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+The main portal for the Planetary Computer. There you can learn more about the platform, browse our datasets, and read the documentation. This is the place where you can also request access to the Planetary Computer Hub.
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+### Open source repositories
 
-## Trademarks
+The Planetary Computer has open sourced a number of it's components, which you will find below. These projects rely on many others in the open source ecosystem as well, and you can find out more by exploring the various codebases.
 
-This project may contain trademarks or logos for projects, products, or services. Authorized use of Microsoft 
-trademarks or logos is subject to and must follow 
-[Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
-Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
-Any use of third-party trademarks or logos are subject to those third-party's policies.
+- [Planetary Computer APIs](https://github.com/microsoft/planetary-computer-apis)
+- [Planetary Computer Containers](https://github.com/microsoft/planetary-computer-containers)
+- [Planetary Computer Hub](https://github.com/microsoft/planetary-computer-hub)
+- [Planetary Computer Examples](https://github.com/microsoft/PlanetaryComputerExamples)
+- [Planetary Computer python package](https://github.com/microsoft/planetary-computer-sdk-for-python)
