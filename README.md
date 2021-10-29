@@ -2,7 +2,7 @@
 
 This repository hosts issues and discussions that users can use to provide feedback, suggestion, and get help in using the Planetary Computer.
 
-If you are experiencing issues with using the Planetary Computer, please file an Issue on this repository. If you're looking for community feedback on an idea or suggestion, consider starting a discussion instead.
+If you are experiencing issues with using the Planetary Computer, please file an [issue](https://github.com/microsoft/PlanetaryComputer/issues) on this repository. If you're looking for community feedback on an idea or suggestion, consider starting a [discussion](https://github.com/microsoft/PlanetaryComputer/discussions) instead.
 
 ## Links
 
