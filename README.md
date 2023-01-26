@@ -20,5 +20,6 @@ The Planetary Computer has open sourced a number of its components, which you wi
 - [Planetary Computer Containers](https://github.com/microsoft/planetary-computer-containers)
 - [Planetary Computer Data Catalog](https://github.com/microsoft/PlanetaryComputerDataCatalog)
 - [Planetary Computer Hub](https://github.com/microsoft/planetary-computer-hub)
+- [Planetary Computer Tasks](https://github.com/microsoft/planetary-computer-tasks)
 - [Planetary Computer Examples](https://github.com/microsoft/PlanetaryComputerExamples)
 - [Planetary Computer Python package](https://github.com/microsoft/planetary-computer-sdk-for-python)
