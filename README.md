@@ -1,5 +1,7 @@
 # Microsoft Planetary Computer - Issues and Discussions
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7261897.svg)](https://doi.org/10.5281/zenodo.7261897)
+
 This repository hosts issues and discussions that users can use to provide feedback and get help in using the Planetary Computer.
 
 If you are experiencing issues with using the Planetary Computer, please file an [issue](https://github.com/microsoft/PlanetaryComputer/issues) on this repository. If you're looking for community feedback on an idea or suggestion, consider starting a [discussion](https://github.com/microsoft/PlanetaryComputer/discussions) instead.
