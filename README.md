@@ -18,10 +18,8 @@ The main portal for the Planetary Computer. There you can learn more about the p
 
 The Planetary Computer has open sourced a number of its components, which you will find below. These projects rely on many others in the open source ecosystem as well, and you can find out more by exploring the various codebases.
 
-- [Planetary Computer APIs](https://github.com/microsoft/planetary-computer-apis)
-- [Planetary Computer Containers](https://github.com/microsoft/planetary-computer-containers)
-- [Planetary Computer Data Catalog](https://github.com/microsoft/PlanetaryComputerDataCatalog)
-- [Planetary Computer Hub](https://github.com/microsoft/planetary-computer-hub)
-- [Planetary Computer Tasks](https://github.com/microsoft/planetary-computer-tasks)
-- [Planetary Computer Examples](https://github.com/microsoft/PlanetaryComputerExamples)
-- [Planetary Computer Python package](https://github.com/microsoft/planetary-computer-sdk-for-python)
+- [Planetary Computer APIs](https://github.com/microsoft/planetary-computer-apis) - Backend
+- [Planetary Computer Data Catalog](https://github.com/microsoft/PlanetaryComputerDataCatalog) - Frontend and documentation
+- [Planetary Computer Examples](https://github.com/microsoft/PlanetaryComputerExamples) - Example Jupyter notebooks specific to datasets
+- [Planetary Computer Python package](https://github.com/microsoft/planetary-computer-sdk-for-python) - Python library for interacting with the Microsoft Planetary Computer
+- [Planetary Computer Tasks (aka pctasks)](https://github.com/microsoft/planetary-computer-tasks) - Data Ingestion
