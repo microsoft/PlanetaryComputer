@@ -12,7 +12,7 @@ If you are experiencing issues with using the Planetary Computer, please file an
 
 https://planetarycomputer.microsoft.com/
 
-The main portal for the Planetary Computer. There you can learn more about the platform, browse our datasets, and read the documentation. This is the place where you can also request access to the Planetary Computer Hub.
+The main portal for the Planetary Computer. There you can learn more about the platform, browse our datasets, and read the documentation.
 
 ### Open source repositories
 
